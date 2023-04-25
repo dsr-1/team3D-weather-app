@@ -8,6 +8,8 @@ Python can be installed from https://www.python.org/downloads/
 
 flet can be install using pip install flet
 
-Made by:- Deepanshu Jha (0801IT201031) Dhruv Bhargav (0801IT201034) Divyank Singh Rajput (0801IT201039)
+Made by:- Divyank Singh Rajput (0801IT201039)
+          Deepanshu Jha (0801IT201031) 
+          Dhruv Bhargav (0801IT201034) 
 
 Mentor by:- Mr. Upendra Singh
